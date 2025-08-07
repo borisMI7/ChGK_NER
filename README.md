@@ -1,10 +1,9 @@
 # Анализ вопросов "Что? Где? Когда?" и NER-модель для извлечения сущностей
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/borisMI/ChGK_NER)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Spaces-Demo-yellow)](https://huggingface.co/spaces/borisMI/ChGK_NER_demo)
-[![Python](https.img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Transformers](https://img.shields.io/badge/🤗-Transformers-yellow.svg)](https://github.com/huggingface/transformers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 Этот проект представляет собой комплексный анализ данных из мира интеллектуальной игры "Что? Где? Когда?". Цель — исследовать статистические закономерности в вопросах и разработать специализированную модель для распознавания именованных сущностей (NER), таких как авторы, произведения искусства и локации.
 
